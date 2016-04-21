@@ -11,9 +11,9 @@ Feel free to use any string methods you wish.
 
 // Gives back ("returns") the fourth letter in a string
 var printLetter1 = function () { 
-  console.log('This is working!');
+  console.log('Print the fourth letter of this string');
   
-  return 'This is working!'[3];
+  return 'Print the fourth letter of this string'[3];
 };
 
 /*
